@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klerno-labs.github.io/review-most-reliable-home-gym-equipment-under-300/sitemap.xml
